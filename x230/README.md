@@ -1,8 +1,14 @@
 # x230
 
-# My x230 coreboot rom.
+ My x230 coreboot rom.
 
-Based on Skulls non-free rom.
+first time flash:
+Flash the corresponding bios chips with these commands. Keep in mind that if yo>
+
+`sudo flashrom -p ch341a_spi -w top.rom`
+
+`sudo flashrom -p ch341a_spi -w bottom.rom`
+
 
 to flash (with coreboot already installed):
 
