@@ -3,7 +3,7 @@
  My x230 coreboot rom.
 
 first time flash:
-Flash the corresponding bios chips with these commands. Keep in mind that if yo>
+Flash the corresponding bios chips with these commands. Keep in mind that if you don´t use ch341 programmer (Beaglebone or Rpi) you have to swap the name of the programmer.
 
 `sudo flashrom -p ch341a_spi -w top.rom`
 
