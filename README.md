@@ -10,6 +10,6 @@ All of them were compiled by me for my personal use, and where it is not the cas
 
 All of them are provided with vgarom enabled and with the Intel_ME disabled.
 
-Explore the ![wiki](https://github.com/dani-77/d77coreboot/wiki) and happy hacking.
+Explore the wiki and happy hacking.
 
 ![bootsplash](bootsplash6.jpg?raw=true)
