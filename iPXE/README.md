@@ -25,12 +25,12 @@ mine is:
 After that,
 
 ```
-git clone git://git.ipxe.org/ipxe.git copy general.h to:
+git clone git://git.ipxe.org/ipxe.git
 ```
 
-copy general.h to ipxe/src/config/local/
+copy general.h to ipxe/src/config/local/ ,
 
-and copy netboot.ipxe to ipxe/src/
+copy netboot.ipxe to ipxe/src/ and
 
 then build the ipxe rom; in my case:
 
