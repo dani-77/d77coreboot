@@ -1,5 +1,5 @@
 #!ipxe
-prompt --key 0x02 --timeout 2000 Press Ctrl-B for the iPXE command line...  || goto netboot
+prompt --key 0x02 --timeout 5000 Press Ctrl-B for the iPXE command line...  || goto netboot
 dhcp
 console --x 1024 --y 768 --picture http://boot.ipxe.org/ipxe.png  --keep
 shell
