@@ -1,4 +1,4 @@
-# lt100
+# lt1000
 
  Libretrend Librebox lt1000 coreboot rom.
 
