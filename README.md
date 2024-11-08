@@ -2,7 +2,7 @@
 
 d77coreboot repo is intended to provide a collection of functional Coreboot roms.
 
-You can modify, study and use them freely, but I grant no warranty for bad use and giant paperweights; use it a your own risk.
+You can modify, study and use them freely, but I grant no warranty for bad use and giant paperweights; use it at your own risk.
 
 For starting point, I believe, these collection of roms can be a good helper in the study of Coreboot and future development of your own roms for your laptops.
 
