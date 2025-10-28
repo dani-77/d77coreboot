@@ -1,6 +1,6 @@
-# lt1000
+# t480s
 
-2 Dirs available; original bios dump and coreboot/libreboot bios.
+2 dirs available; original bios dump and coreboot/libreboot bios.
 
 Thinkpad T480s libreboot rom.
 
