@@ -1,6 +1,7 @@
 <h1 align="center">
 d77coreboot
-Own your laptop again!
+
+  Own your laptop again!
 </h1>
 
 d77coreboot repo is intended to provide a collection of functional Coreboot roms.
