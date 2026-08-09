@@ -1,5 +1,6 @@
 <h1 align="center">
-d77coreboot
+  <img src="logo.png" alt="d77coreboot logo" width="160"><br>
+  d77coreboot
 
   Own your laptop again!
 </h1>
